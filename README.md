@@ -3,8 +3,8 @@ Simple Rock Paper Scissors game using python and gui by Tkinter
 
 Screenshots
 
-![](images/01.jpg)
+![](images/01.JPG)
 
-![](images/02.jpg)
+![](images/02.JPG)
 
-![](images/03.jpg)
+![](images/03.JPG)
